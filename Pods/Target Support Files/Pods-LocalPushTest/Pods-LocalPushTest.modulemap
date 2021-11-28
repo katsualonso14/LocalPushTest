@@ -1,0 +1,6 @@
+framework module Pods_LocalPushTest {
+  umbrella header "Pods-LocalPushTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
